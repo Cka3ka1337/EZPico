@@ -1,0 +1,8 @@
+# только данные каталога: catalog.db, manifest.json, images/
+*
+!.gitignore
+!README.md
+!catalog.db
+!manifest.json
+!images/
+!images/*.jpg
