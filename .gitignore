@@ -2,6 +2,7 @@
 *
 !.gitignore
 !README.md
+!LICENSE
 !catalog.db
 !manifest.json
 !images/
