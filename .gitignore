@@ -1,9 +1,10 @@
-# только данные каталога: catalog.db, manifest.json, images/
+# только данные каталога: catalog.db, manifest.json, covers.zip, images/
 *
 !.gitignore
 !README.md
 !LICENSE
 !catalog.db
 !manifest.json
+!covers.zip
 !images/
 !images/*.jpg

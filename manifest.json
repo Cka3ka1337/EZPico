@@ -1,10 +1,13 @@
 {
   "schema": 1,
-  "version": "2026.11.21.1301",
-  "generated_at": "2026-11-21T13:01:55+00:00",
+  "version": "2026.11.22.0922",
+  "generated_at": "2026-11-22T09:22:46+00:00",
   "games": 1556,
   "db": "catalog.db",
   "db_size": 3072000,
-  "db_sha256": "3edf14ab0139b7258c4218c62ae7d94a8f87c67eb673b838377c1351dd409381",
-  "images": "images/"
+  "db_sha256": "b151f7e4b2879d5433bd694f1ab4abc65ef6b86c79565747d9dab8398fb0ddd2",
+  "images": "images/",
+  "covers_zip": "covers.zip",
+  "covers_zip_size": 39722062,
+  "covers_zip_sha256": "02ec3b1fff0b628c5fcf78d8e784b7267279800032392b59ab43f8395db95782"
 }
